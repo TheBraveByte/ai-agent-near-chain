@@ -1,5 +1,9 @@
 # Blockchain Yield Optimization Application on NEAR
 
+
+## select the one you will like to work on and let me know
+
+
 ## Overview
 The project involves building a blockchain application on NEAR that automatically finds the best yield for the user by monitoring feeds from various protocols (Aave, Compound, etc.) and automatically moving funds to the protocol offering the best yield using AI agents like Bitte.
 
